@@ -6,6 +6,9 @@ AI-Powered Resume and Job Description Matcher using NLP and Semantic Similarity 
 This is a **self-initiated project** where I built an AI-powered system to match resumes with job descriptions using **Natural Language Processing (NLP)** and **semantic similarity**.  
 The project simulates a simplified version of an **Applicant Tracking System (ATS)** by parsing resumes and JDs, extracting important skills/experience, and ranking candidates with explainable results.  
 
+## link to repository
+-- https://github.com/Slother12/AI-Powered-Resume-and-Job-Description-Matcher
+
 ---
 
 ## What I Learned
